@@ -21,7 +21,6 @@
   },
   "homepage": "https://github.com/yanatan16/reactive-ie8-shims",
   "dependencies": {
-    "es5-shim": "^4.0.3",
-    "ie8": "git+https://github.com/WebReflection/ie8#0.1.4"
+    "es5-shim": "^4.0.3"
   }
 }
