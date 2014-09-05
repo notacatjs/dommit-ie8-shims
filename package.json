@@ -1,6 +1,6 @@
 {
   "name": "reactive-ie8-shims",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "IE8 shims for reactive",
   "main": "index.js",
   "scripts": {
